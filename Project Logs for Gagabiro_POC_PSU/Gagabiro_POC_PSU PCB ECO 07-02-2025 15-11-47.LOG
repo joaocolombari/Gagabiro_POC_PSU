@@ -1,0 +1,159 @@
+Add Component: Footprint Not Found TO92127P495H495-3
+Add Component: Footprint Not Found TO92127P495H495-3
+Add Component: Footprint Not Found LM337KVURG3
+Add Component: Footprint Not Found CAP_panassonic_1u_450V
+Add Component: Footprint Not Found CAPPRD500W50D630H1120_stand
+Add Component: Footprint Not Found CAPPRD500W50D630H1120_stand
+Add Component: Footprint Not Found CAP_panassonic_100n_450V
+Add Component: Footprint Not Found CAP_panassonic_1u_450V
+Add Component: Footprint Not Found CAP_panassonic_1u_450V
+Add Component: Footprint Not Found CAP_panassonic_1u_450V
+Add Component: Footprint Not Found CAP_panassonic_1u_450V
+Add Component: Footprint Not Found CAP_panassonic_1u_450V
+Add Component: Footprint Not Found CAPPRD500W50D630H1120_stand_25x50
+Add Component: Footprint Not Found CAP_panassonic_1u_450V
+Add Component: Footprint Not Found CAP_panassonic_1u_450V
+Add Component: Footprint Not Found CAPPRD500W50D630H1120_stand_22x40
+Add Component: Footprint Not Found DIOAD1036W78L463D272
+Add Component: Footprint Not Found DIOAD1036W78L470D235
+Add Component: Footprint Not Found DIOAD1036W78L470D235
+Add Component: Footprint Not Found DIOAD1036W78L470D235
+Add Component: Footprint Not Found DIOAD1036W78L470D235
+Add Component: Footprint Not Found DIOAD1036W78L470D235
+Add Component: Footprint Not Found DIOAD1036W78L463D272
+Add Component: Footprint Not Found DIOAD1036W78L470D235
+Add Component: Footprint Not Found DIOAD1036W78L470D235
+Add Component: Footprint Not Found DIOAD1036W78L470D235
+Add Component: Footprint Not Found DIOAD1036W78L470D235
+Add Component: Footprint Not Found DIOAD1036W78L470D235
+Add Component: Footprint Not Found DIOAD1036W78L470D235
+Add Component: Footprint Not Found DIOAD1036W78L470D235
+Add Component: Footprint Not Found heatsink_HS_6835
+Add Component: Footprint Not Found heatsink_HS_6835
+Added Component: Designator=P1(SAMTEC_MTMM-101-X-X-S-X)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-PH-SM4-TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/S2B-PH-SM4-TB/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P2(SAMTEC_MTMM-101-X-X-S-X)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-PH-SM4-TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/S2B-PH-SM4-TB/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P3(SAMTEC_MTMM-101-X-X-S-X)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-PH-SM4-TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/S2B-PH-SM4-TB/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P4(SAMTEC_MTMM-101-X-X-S-X)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-PH-SM4-TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/S2B-PH-SM4-TB/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P5(SAMTEC_MTMM-101-X-X-S-X)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S2B-PH-SM4-TB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/S2B-PH-SM4-TB/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S2B-PH-SM4-TB/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 2_conn_NC
+Add Component: Footprint Not Found 2_conn_NC
+Add Component: Footprint Not Found 2_conn_NC
+Add Component: Footprint Not Found 2_conn_NC
+Add Component: Footprint Not Found 2_conn_NC
+Add Component: Footprint Not Found TO254P1009X445X1985-3
+Add Component: Footprint Not Found TO254P1009X445X1985-3
+Add Component: Footprint Not Found TO254P1009X445X1985-3
+Add Component: Footprint Not Found TO254P1009X445X1985-3
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found RES_2W_vertical
+Add Component: Footprint Not Found TRIM_PV36W204C01B00 - duplicate
+Add Component: Footprint Not Found TO228P991X255-3N
+Add Component: Footprint Not Found TO228P991X255-3N
+Added Net: Name=GND
+Added Pin To Net: NetName=MAIDA_GRID_IN Pin=P5-1
+Added Net: Name=MAIDA_GRID_IN
+Added Pin To Net: NetName=MAIDA_IN Pin=P4-1
+Added Net: Name=MAIDA_IN
+Added Net: Name=Net*1_2
+Added Net: Name=Net*1_3
+Added Net: Name=Net*2_2
+Added Net: Name=Net*2_3
+Added Net: Name=NetB1_1
+Added Net: Name=NetC6_2
+Added Net: Name=NetC7_2
+Added Net: Name=NetC11_2
+Added Net: Name=NetC12_2
+Added Net: Name=NetD1_1
+Added Net: Name=NetD7_1
+Added Net: Name=NetQ1_3
+Added Net: Name=NetQ2_3
+Added Net: Name=NetQ3_3
+Added Net: Name=NetQ4_3
+Added Net: Name=NetR3_2
+Added Net: Name=NetR4_1
+Added Net: Name=NetR10_1
+Added Net: Name=NetR18_1
+Added Net: Name=NetR23_1
+Added Net: Name=TF_B+
+Added Net: Name=TF_B-
+Added Net: Name=TF_G+
+Added Net: Name=TF_G-
+Added Pin To Net: NetName=VAA1 Pin=P1-1
+Added Net: Name=VAA1
+Added Pin To Net: NetName=VAA2 Pin=P3-1
+Added Net: Name=VAA2
+Added Pin To Net: NetName=VGG Pin=P2-1
+Added Net: Name=VGG
+Added Class: Name=Gagabiro_POC_PSU_main
+Added Rule: Name=Schematic Supply Nets

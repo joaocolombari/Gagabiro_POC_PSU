@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=P6 Old Footprint=2_conn_NC New Footprint=691101710002
+Change Component Footprint: Designator=P7 Old Footprint=2_conn_NC New Footprint=691101710002
+Change Component Footprint: Designator=P8 Old Footprint=2_conn_NC New Footprint=691101710002
+Change Component Footprint: Designator=P9 Old Footprint=2_conn_NC New Footprint=691101710002
+Change Component Footprint: Designator=P10 Old Footprint=2_conn_NC New Footprint=691101710002
+Change Component Comment : Designator=P6 Old Comment=2_conn_NC New Comment=2_conn_borne
+Change Component Comment : Designator=P7 Old Comment=2_conn_NC New Comment=2_conn_borne
+Change Component Comment : Designator=P8 Old Comment=2_conn_NC New Comment=2_conn_borne
+Change Component Comment : Designator=P9 Old Comment=2_conn_NC New Comment=2_conn_borne
+Change Component Comment : Designator=P10 Old Comment=2_conn_NC New Comment=2_conn_borne

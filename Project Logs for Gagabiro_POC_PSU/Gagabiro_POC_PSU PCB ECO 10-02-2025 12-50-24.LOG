@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=B1 Old Footprint=LM337KVURG3 New Footprint=lm317
+Change Footprint: Cannot match pads with new footprint in component :VR1 Footprint:TO254P1009X445X1985-3
+Change Footprint: Cannot match pads with new footprint in component :VR2 Footprint:TO254P1009X445X1985-3
+Change Component Comment : Designator=VR1 Old Comment=LM317AMDT/NOPB New Comment=LM317
+Change Component Comment : Designator=VR2 Old Comment=LM317AMDT/NOPB New Comment=LM317

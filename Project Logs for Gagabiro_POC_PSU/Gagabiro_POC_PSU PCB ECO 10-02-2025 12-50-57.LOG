@@ -1,0 +1,22 @@
+Added Component: Designator=VR1(TO254P1009X445X1985-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM317AMDT/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VR2(TO254P1009X445X1985-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM317AMDT/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*1_2 Pin=VR1-1
+Added Pin To Net: NetName=NetR4_2 Pin=VR1-3
+Add Pin To Net: Unknown Pin: Pin VR1-4
+Added Pin To Net: NetName=Net*2_2 Pin=VR2-1
+Added Pin To Net: NetName=NetR18_2 Pin=VR2-3
+Add Pin To Net: Unknown Pin: Pin VR2-4
+Added Member To Class: ClassName=maida_1 Member=Component VR1 LM317
+Added Member To Class: ClassName=maida_2 Member=Component VR2 LM317

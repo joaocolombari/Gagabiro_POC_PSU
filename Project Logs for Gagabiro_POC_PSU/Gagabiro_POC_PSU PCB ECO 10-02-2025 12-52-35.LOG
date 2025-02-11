@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VAA1 Pin=VR1-4
+Removed Pin From Net: NetName=VAA2 Pin=VR2-4
+Change Component Footprint: Designator=VR1 Old Footprint=TO228P991X255-3N New Footprint=TO254P1009X445X1985-3
+Change Component Footprint: Designator=VR2 Old Footprint=TO228P991X255-3N New Footprint=TO254P1009X445X1985-3
+Added Pin To Net: NetName=VAA1 Pin=VR1-2
+Added Pin To Net: NetName=VAA2 Pin=VR2-2
+Added Member To Class: ClassName=maida_1 Member=Component VR1 LM317
+Added Member To Class: ClassName=maida_2 Member=Component VR2 LM317
